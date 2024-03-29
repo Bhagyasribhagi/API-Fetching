@@ -1,0 +1,34 @@
+.container{
+    background-color: rgb(166, 236, 212);
+    padding: 20px;
+    text-align: center;
+    background-size: cover;
+    height: 100vh;
+   
+}
+.image{
+    padding: 10px;
+    height: 15rem;
+    width: 15rem;
+}
+
+.data{
+    padding-top: 10px;
+    font-size: 1.2rem;
+    font-family: "roboto";
+    font-weight: bold;
+    color: hsla(239, 85%, 50%, 0.92);
+}
+.price{
+    text-align: left;
+    font-weight: bold;
+    color: red;
+}
+.button1{
+   
+    margin: 25px;
+}
+.button2{
+   
+    margin: 25px;
+}

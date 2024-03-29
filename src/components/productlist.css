@@ -1,0 +1,33 @@
+.bg-container{
+    background-color: rgb(121, 221, 219);
+  
+    background-image: cover;
+    height: 100%;
+}
+.heading{
+    font-size: 3em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: blue;
+}
+
+.title{
+    color: rgb(31, 7, 7);
+    font-weight: bold;
+    font-size: 1.5rem;
+
+}
+.image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+ 
+  
+}
+.img{
+    height: 15rem;
+    width: 15rem;
+    text-align: center;
+    padding-bottom: 20px;
+}
